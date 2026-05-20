@@ -9,7 +9,7 @@ A mobile-first safety PWA that helps users stay safe during daily activities, tr
 | | |
 |---|---|
 | **App** | https://personal-safety-companion-reyfcvkinmaul-uxs-projects.vercel.app |
-| **Repo** | https://github.com/adikkmuda/personal-safety-companion |
+| **Repo** | https://github.com/arminmikasq/personal-safety-companion |
 
 ## 🎮 Features
 
